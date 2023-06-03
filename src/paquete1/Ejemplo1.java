@@ -9,7 +9,7 @@ public class Ejemplo1 {
 		 */
 		/**Este comentario es de documentación*/
 		System.out.println("Hola Mundo!!!");
-
+		System.out.println("Este es un ejercicio con java y git");
 	}
 
 }
