@@ -10,8 +10,7 @@ public class Ejemplo1 {
 		/**Este comentario es de documentación*/
 		System.out.println("Hola Mundo!!!");
 		System.out.println("Este es un ejercicio con java y git");
-		System.out.println("Exito");
-		System.out.println("Estamos en la rama1");
+		System.out.println("Estamos en rama1_ejemplo1");
 	}
 
 }
